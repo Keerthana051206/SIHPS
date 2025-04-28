@@ -1,6 +1,6 @@
 # Smart India Hackathon Workshop
-# Date:30.11.24
-## Register Number:24002514
+# Date:28/04/25
+## Register Number:21224220047
 ## Name:Keerthana C
 ## Problem Title
 SIH1392 E-Waste Facility Locator
@@ -8,8 +8,7 @@ SIH1392 E-Waste Facility Locator
 Electronic waste (e-waste) generation is increasing at an alarming rate due to rapid technological advancements and short device lifespans. Despite the presence of certified recycling centers, people find it difficult to locate nearby, authorized e-waste collection facilities, leading to improper disposal practices, environmental degradation, and health hazards.
 There is a need for an accessible solution that enables individuals and businesses to find verified e-waste collection and recycling facilities quickly and easily.
 ## Problem Creater's Organization
-
-
+Ministry of organization
 ## Idea
 1.Develop a web and/or mobile application that allows users to:
 2.Locate nearby certified e-waste facilities using GPS or manual location entry.
